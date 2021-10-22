@@ -1,6 +1,6 @@
 # NLP_homework
 
-Some of the graphs/applications didn't render on git hub, so here are the images of the aforementioned graph/applications.
+Some of the graphs/applications didn't render on git hub, so here are the images of the aforementioned graphs/applications.
 
 ![fig-1](images/pic1.png)
 ![fig-2](images/pic2.png)
