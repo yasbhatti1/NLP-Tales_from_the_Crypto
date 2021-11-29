@@ -1,4 +1,4 @@
-# NLP_homework
+# NLP_Graphs
 
 Some of the graphs/applications didn't render on git hub, so here are the images of the aforementioned graphs/applications.
 
